@@ -2,21 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2d3596d-bff1-4ae7-b6a4-a7e08d1143da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AnimalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysUtilDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClassTeacherDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConstructorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DogObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FinalDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObjectDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OverloadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DateDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MathRandomDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyStringBulider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringBuilderDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJava/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJava/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJava/Dogs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJava/Dogs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyFirstJava/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MyFirstJava/Person.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,15 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StudentObject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudentObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DogObject.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DogObject.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,25 +59,65 @@
       <file leaf-file-name="AnimalDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AnimalDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
+            <state relative-caret-position="228">
               <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InterfaceDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InterfaceDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/InterfaceDemo.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="12" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringBuilderDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StringBuilderDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyStringBulider.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MyStringBulider.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateDemo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DateDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
               <folding>
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Calender.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Calender.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MathRandomDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MathRandomDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -143,6 +168,11 @@
         <option value="$PROJECT_DIR$/src/ObjectDemo.java" />
         <option value="$PROJECT_DIR$/src/AnimalDemo.java" />
         <option value="$PROJECT_DIR$/src/InterfaceDemo.java" />
+        <option value="$PROJECT_DIR$/src/StringBuilderDemo.java" />
+        <option value="$PROJECT_DIR$/src/MyStringBulider.java" />
+        <option value="$PROJECT_DIR$/src/DateDemo.java" />
+        <option value="$PROJECT_DIR$/src/Calender.java" />
+        <option value="$PROJECT_DIR$/src/MathRandomDemo.java" />
       </list>
     </option>
   </component>
@@ -156,16 +186,19 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="640" />
-    <option name="y" value="93" />
+    <option name="x" value="221" />
+    <option name="y" value="74" />
     <option name="width" value="1346" />
-    <option name="height" value="690" />
+    <option name="height" value="635" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,9 +233,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,14 +267,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InterfaceDemo">
-    <configuration name="AnimalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnimalDemo" />
-      <module name="MyFirstJava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="FinalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalDemo" />
+  <component name="RunManager" selected="Application.MathRandomDemo">
+    <configuration name="DateDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DateDemo" />
       <module name="MyFirstJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -253,13 +278,18 @@
       <module name="MyFirstJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="ObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectDemo" />
+    <configuration name="MathRandomDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathRandomDemo" />
       <module name="MyFirstJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="OverloadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OverloadDemo" />
+    <configuration name="MyStringBulider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyStringBulider" />
+      <module name="MyFirstJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="StringBuilderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringBuilderDemo" />
       <module name="MyFirstJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -305,19 +335,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.OverloadDemo" />
-      <item itemvalue="Application.FinalDemo" />
-      <item itemvalue="Application.ObjectDemo" />
-      <item itemvalue="Application.AnimalDemo" />
       <item itemvalue="Application.InterfaceDemo" />
+      <item itemvalue="Application.StringBuilderDemo" />
+      <item itemvalue="Application.MyStringBulider" />
+      <item itemvalue="Application.DateDemo" />
+      <item itemvalue="Application.MathRandomDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MathRandomDemo" />
+        <item itemvalue="Application.DateDemo" />
+        <item itemvalue="Application.MyStringBulider" />
+        <item itemvalue="Application.StringBuilderDemo" />
         <item itemvalue="Application.InterfaceDemo" />
-        <item itemvalue="Application.AnimalDemo" />
-        <item itemvalue="Application.ObjectDemo" />
-        <item itemvalue="Application.FinalDemo" />
-        <item itemvalue="Application.OverloadDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -340,20 +370,21 @@
       <workItem from="1532846664982" duration="4286000" />
       <workItem from="1532956289879" duration="2792000" />
       <workItem from="1533043460361" duration="4911000" />
-      <workItem from="1533130007760" duration="1801000" />
+      <workItem from="1533130007760" duration="2438000" />
+      <workItem from="1533219475267" duration="3520000" />
+      <workItem from="1533304264112" duration="4299000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33861000" />
+    <option name="totallyTimeSpent" value="42317000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="640" y="93" width="1346" height="690" extended-state="0" />
-    <editor active="true" />
+    <frame x="-127" y="67" width="1346" height="635" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32961783" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3282313" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -361,7 +392,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42857143" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4894027" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -389,46 +420,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/StudentObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DogObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VarDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="66" selection-start-line="27" selection-start-column="66" selection-end-line="27" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DataDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -684,10 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -707,23 +694,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AnimalDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
+        <state relative-caret-position="228">
           <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InterfaceDemo.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringBuilderDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyStringBulider.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
           <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MathRandomDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
